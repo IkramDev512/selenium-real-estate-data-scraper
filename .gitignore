@@ -1,0 +1,11 @@
+# Ignore Jupyter notebook checkpoints folder
+.ipynb_checkpoints/
+
+# Ignore specific Jupyter notebook file
+99 Acres Project.ipynb
+
+# Ignore raw uncleaned CSV data
+99 acres property data [uncleaned].csv
+
+# Ignore cleaned Excel export
+properties listings 99-acres [cleaned].xlsx
